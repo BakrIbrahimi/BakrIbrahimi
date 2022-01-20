@@ -8,7 +8,7 @@
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=bibrahim)](https://github.com/mohouyizme/1337-readme)
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BakrIbrahimi&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 BakrIbrahimi/BakrIbrahimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

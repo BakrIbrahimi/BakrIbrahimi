@@ -5,7 +5,7 @@
 - 🤝 I’m looking to collaborate on any project
 - 📫 How to reach me bakribra5@gmail.com
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=bibrahim)](https://github.com/mohouyizme/1337-readme)
+<!--[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&login=bibrahim)](https://github.com/mohouyizme/1337-readme)-->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BakrIbrahimi&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)

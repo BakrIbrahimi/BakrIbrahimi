@@ -5,7 +5,7 @@
 - 🤝 I’m looking to collaborate on any project
 - 📫 How to reach me bakribra5@gmail.com
 
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/bibrahim?1337Badge=off&42Network=off" alt="bibrahim's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/bibrahim" alt="bibrahim's 42 stats" /></a>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BakrIbrahimi&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)

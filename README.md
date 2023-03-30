@@ -10,6 +10,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BakrIbrahimi&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://github-readme-stats.vercel.app/api?username=Aklaikel&count_private=true&show_icons=true">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=BakrIbrahimi&count_private=true&show_icons=true" alt="Bakr Ibrahimi's github stats" />
+</a>
+
 <!---
 BakrIbrahimi/BakrIbrahimi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
